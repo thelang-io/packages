@@ -1,0 +1,6 @@
+name: the/error
+path: packages/error
+latest_version: 0.1.0
+
+versions:
+  - 0.1.0: be44469851f731e04a9a4923a1ac7bb0f2fde261
