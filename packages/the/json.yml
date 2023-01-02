@@ -1,9 +1,9 @@
-name: the/testing
-description: The Programming Language test framework
+name: the/json
+description: JSON parser
 latest_version: 0.1.0
 license: MIT
 repository: https://github.com/thelang-io/the.git
-repository_path: /packages/testing
+repository_path: /packages/json
 
 versions:
   - 0.1.0: cb4e7f03f0669ece48b13bb2536225a814b4d6ef
