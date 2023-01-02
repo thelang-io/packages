@@ -1,6 +1,7 @@
 name: the/testing
 description: The Programming Language test framework
 latest_version: 0.1.0
+license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/testing
 
