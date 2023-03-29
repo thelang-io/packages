@@ -6,4 +6,4 @@ repository: https://github.com/thelang-io/the.git
 repository_path: /packages/reader
 
 versions:
-  - 1.0.0: cb4e7f03f0669ece48b13bb2536225a814b4d6ef
+  1.0.0: cb4e7f03f0669ece48b13bb2536225a814b4d6ef
