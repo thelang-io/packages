@@ -1,11 +1,12 @@
 name: the/error
-description: The Programming Language error
-latest_version: 1.1.1
+description: The programming language error
+latest_version: 1.1.2
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/error
 
 versions:
+  1.1.2: 8a21ee4836af2ab44802ecc01c9ea8a65cb76649
   1.1.1: 29f38efc1b2452e5df618c991df01268ca11d30b
   1.1.0: 1be3a65ade01c12f0951d8df9882f225acdeaf84
   1.0.0: cb4e7f03f0669ece48b13bb2536225a814b4d6ef

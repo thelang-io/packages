@@ -1,0 +1,9 @@
+name: the/exec
+description: System commands wrapper
+latest_version: 0.1.1
+license: MIT
+repository: https://github.com/thelang-io/the.git
+repository_path: /packages/exec
+
+versions:
+  0.1.1: 8a21ee4836af2ab44802ecc01c9ea8a65cb76649
