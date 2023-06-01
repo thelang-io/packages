@@ -1,11 +1,12 @@
 name: the/reader
 description: The programming language reader
-latest_version: 1.0.3
+latest_version: 1.0.4
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/reader
 
 versions:
+  1.0.4: fceb3f9b5b52bed8861ebb257beaaeec1ef8df54
   1.0.3: 8a21ee4836af2ab44802ecc01c9ea8a65cb76649
   1.0.2: 29f38efc1b2452e5df618c991df01268ca11d30b
   1.0.1: 472257973a11190e83040862f0a2ca131e5a4a03
