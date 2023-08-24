@@ -7,8 +7,9 @@ Packages for The programming language live here
 3. Create a pull request
 
 ## Removing Package
-1. Same as adding, just remove your package YML file
-2. Create a pull request
+1. We are not removing packages, instead deprecating them
+2. Add `deprecated: true` to your package ([example](packages/the/error.yml))
+3. Create a pull request
 
 ## Rules
 1. Package name should be lowercased and consist of alphanumeric letters, hyphens and underscores, but it should start only with letters and end with alphanumeric letters

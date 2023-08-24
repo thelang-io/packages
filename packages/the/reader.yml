@@ -4,6 +4,7 @@ latest_version: 1.0.4
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/reader
+deprecated: true
 
 versions:
   1.0.4: fceb3f9b5b52bed8861ebb257beaaeec1ef8df54

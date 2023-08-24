@@ -1,11 +1,12 @@
 name: the/json
 description: JSON parser
-latest_version: 0.1.2
+latest_version: 0.2.0
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/json
 
 versions:
+  0.2.0: 066d6f7bc381e4ec1a1763820c2487f6851cec0b
   0.1.2: 8a21ee4836af2ab44802ecc01c9ea8a65cb76649
   0.1.1: 29f38efc1b2452e5df618c991df01268ca11d30b
   0.1.0: cb4e7f03f0669ece48b13bb2536225a814b4d6ef

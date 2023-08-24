@@ -1,11 +1,12 @@
 name: the/args
 description: Command line arguments parser and tools
-latest_version: 0.2.1
+latest_version: 0.3.0
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/args
 
 versions:
+  0.3.0: 066d6f7bc381e4ec1a1763820c2487f6851cec0b
   0.2.1: fceb3f9b5b52bed8861ebb257beaaeec1ef8df54
   0.2.0: 8a21ee4836af2ab44802ecc01c9ea8a65cb76649
   0.1.2: 29f38efc1b2452e5df618c991df01268ca11d30b
