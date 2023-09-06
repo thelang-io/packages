@@ -1,11 +1,12 @@
 name: the/zip
 description: Zip Utilities
-latest_version: 0.1.8
+latest_version: 0.1.9
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/zip
 
 versions:
+  0.1.9: 0201cc5dae73070a91381d8f057a58778c53e239
   0.1.8: 500a7985c0d179db26bd6515ccac76c2f5378cc7
   0.1.7: 1cd35cfe345589dea46c3530d58e26ac6ec95d75
   0.1.6: b77f32369029e5f5eb759e5876752376fff72f27
