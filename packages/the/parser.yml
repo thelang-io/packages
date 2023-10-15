@@ -1,11 +1,12 @@
 name: the/parser
 description: The programming language parser
-latest_version: 0.4.3
+latest_version: 0.4.4
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/parser
 
 versions:
+  0.4.4: 25909c78788c3586d95c59572f7c71d0a8b588b7
   0.4.3: b387a98802c98fb507707ec108019e05ce73574d
   0.4.2: 98066d1c295ac41ec4874d19e9d34c1d75ab47eb
   0.4.1: d886d19b829e5daf62ceab5f8dece5d999e6466c
