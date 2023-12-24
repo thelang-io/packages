@@ -1,9 +1,10 @@
 name: the/example
 description: Example package used by Analyzer tests
-latest_version: 1.0.0
+latest_version: 1.0.1
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/example
 
 versions:
+  1.0.1: 679f5ffa4bf2ced785214fbdb746078db93e87dc
   1.0.0: 15174f01d197329468d8e37b0f3a35a760c20b7d
