@@ -1,0 +1,9 @@
+name: the/date
+description: The programming language date library
+latest_version: 0.1.0
+license: MIT
+repository: https://github.com/thelang-io/the.git
+repository_path: /packages/date
+
+versions:
+  0.1.0: 9ce1ad511f6c92354c655928ab39dc13c95a1b17
