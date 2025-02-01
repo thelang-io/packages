@@ -1,9 +1,10 @@
 name: the/analyzer
 description: The programming language analyzer
-latest_version: 0.1.0
+latest_version: 0.2.0
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/analyzer
 
 versions:
+  0.2.0: e439cbbfd9545fffe3d116df83173108591f57e7
   0.1.0: 23f716d77e65085c1d81bf1f1f2cdb6e36eddefd

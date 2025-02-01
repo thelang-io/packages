@@ -1,9 +1,10 @@
 name: the/html
 description: HTML parser
-latest_version: 0.1.0
+latest_version: 0.2.0
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/html
 
 versions:
+  0.2.0: a3796d2db6d4d77e2a473c0204817707e81b4724
   0.1.0: 7b15be0dd5fcf52d268a723de0d515a39b71cd5e

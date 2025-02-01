@@ -1,9 +1,10 @@
 name: the/c
 description: C programming language parser
-latest_version: 0.1.0
+latest_version: 0.2.0
 license: MIT
 repository: https://github.com/thelang-io/the.git
 repository_path: /packages/c
 
 versions:
+  0.2.0: 163555832117355df5615b2e327dc882183d94ee
   0.1.0: 31374a654896583076ceee4c1fb04a9fe9954f47
